@@ -9,6 +9,3 @@ Modern interactive website explaining election process.
 - FAQ
 - Chatbot
 - Responsive UI
-
-## Run
-Open index.html
